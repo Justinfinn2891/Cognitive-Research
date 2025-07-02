@@ -1,3 +1,6 @@
+{![image](https://github.com/user-attachments/assets/bc16b7f8-b9fd-4ba1-a094-6af2586bc19b)
+
+
 The actual research paper
 https://docs.google.com/document/d/18T_g1UTC8Q19RYiC9GCNVX-vH1KJNmo0ABV2TkPYoG4/edit?tab=t.npx23uua3kmi
 
