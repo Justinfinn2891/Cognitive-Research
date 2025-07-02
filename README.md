@@ -1,8 +1,35 @@
-{![image](https://github.com/user-attachments/assets/bc16b7f8-b9fd-4ba1-a094-6af2586bc19b)
+## Purpose
+
+This research paper explores the possibility of artificial sentience by examining various neural network architectures—including Convolutional Neural Networks (CNNs), Graph Neural Networks (GNNs), Recurrent Neural Networks (RNNs), and standard non-linear feedforward networks. By analyzing their structural differences and learning behaviors, the paper investigates how complexity, memory, and pattern recognition contribute to the theoretical foundation for machine awareness. This research paper is not yet complete therefore will not be released. Sample pages are given below. 
+
+## Example of pages
+
+# Page 1 of research paper
+
+![screenshot](research_page1.png)
 
 
-The actual research paper
-https://docs.google.com/document/d/18T_g1UTC8Q19RYiC9GCNVX-vH1KJNmo0ABV2TkPYoG4/edit?tab=t.npx23uua3kmi
+# Page 3 of research paper
+
+![screenshot](research_page3.png)
+
+
+# Page 5 of research paper 
+
+![screenshot](reseach_page5.png)
+
+
+## Network Traffic Prediction Project 
 
 First project connected to the paper: 
 https://github.com/Justinfinn2891/Network-Traffic-Predictions/tree/main
+
+## Neural Network from scratch
+
+Scratch Neural Network project connected to the paper: 
+https://github.com/Justinfinn2891/Scratch-Neural-Network
+
+## Oracle GPU (Recurrent LSTM Neural Network) 
+
+OracleGPU project connected to the paper: 
+https://github.com/Justinfinn2891/OracleGPU-Graphics-Card-Price-Predictor
