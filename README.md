@@ -17,7 +17,7 @@ This research paper explores the possibility of artificial sentience by examinin
 
 ## Page 5 of research paper 
 
-![screenshot](./research_pages/reseach_page5.png)
+![screenshot](./research_pages/research_page5.png)
 
 
 ## Network Traffic Prediction Project 
