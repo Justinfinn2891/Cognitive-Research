@@ -4,7 +4,7 @@ This research paper explores the possibility of artificial sentience by examinin
 
 
 ## Progress of research paper 
-6/18 pages completed 
+9/18 pages completed (50%)
 
 
 # Example of pages
