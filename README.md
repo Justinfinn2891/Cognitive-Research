@@ -2,6 +2,11 @@
 
 This research paper explores the possibility of artificial sentience by examining various neural network architectures—including Convolutional Neural Networks (CNNs), Graph Neural Networks (GNNs), Recurrent Neural Networks (RNNs), and standard non-linear feedforward networks. By analyzing their structural differences and learning behaviors, the paper investigates how complexity, memory, and pattern recognition contribute to the theoretical foundation for machine awareness. This research paper is not yet complete therefore will not be released. Sample pages are given below. 
 
+
+## Progress of research paper 
+6/18 pages completed 
+
+
 # Example of pages
 
 
